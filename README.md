@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Benjamin 👋
+## 🔭 I'm exploring the world of computers
+## 🌱 I'm studying computer engineering at university
+## 🤔 I'm interested in both software development and hardware design
+## ⚡ I'm currently a full-stack web developer for a small business...
+## 😄 ...and I'm working on an autonomous robot for my university
+## 👯 Let's collaborate together to make an amazing project
+## 📫 Reach me at bcjon3@gmail.com, or connect with me on LinkedIn https://www.linkedin.com/in/ben-jon/
+
+
+
+
 
 <!--
 **bjon1/bjon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
