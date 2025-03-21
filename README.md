@@ -1,6 +1,5 @@
 # Hi there, I'm Benjamin 👋
 - 🔭 I'm exploring the world of computers
-- 🌱 I'm studying computer engineering at university, interested in both software and hardware
 - ⚡ I'm currently a software engineer for L3Harris Technologies
 - 👯 Let's collaborate together to make an amazing project
 - 📫 Reach me at bcjon3@gmail.com, or connect with me on LinkedIn https://www.linkedin.com/in/ben-jon/
